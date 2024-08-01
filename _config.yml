@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Emad Chelhi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Student at University of Pisa, MSc Data Science"
   location         : "Pisa"
   employer         : "Università di Pisa"
   uri              : # URL
-  email            : "e.chelhi at studenti dot unipi dot it" 
+  email            : "e.chelhi@studenti.unipi.it" 
 
   # Repositories and software development
   github           : "https://github.com/emadchelhi"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/emadchelhi/"
+  linkedin         : "https://linkedin.com/in/emadchelhi/"
 
 
 
@@ -81,22 +81,6 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 
 # Analytics
