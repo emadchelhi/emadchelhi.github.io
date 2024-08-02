@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="highlighted-section">
-
 Education
 ======
 * M.S. in Data Science, Università di Pisa, 2025 (expected)
@@ -47,7 +45,6 @@ Git, GitHub
 Hobbies
 ======
 
-</div>
 
 
 
