@@ -22,22 +22,22 @@ Work experience
 Skills
 ======
 
-* Programming
+* **Programming**:
 Python, R, C
 
-* Databases
+* **Databases**:
 SQL, PostgreSQL, MongoDB
 
-* Machine Learning
+* **Machine Learning**:
 Pytorch, Pandas, Numpy, Sklearn
 
-* Visualization
+* **Visualization**:
 Plotly, Matplotlib, Seaborn
 
-* Typing
+* **Typing**:
 Latex, Markdown
 
-* Other
+* **Other**:
 Git, GitHub
 
 
