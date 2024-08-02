@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <span style="color:rgba(82,173,200,255)"> Education </span>
 ======
-<img src="/images/universita-di-pisa.png" alt="MVA" width="150" height="100" /> <img src="/images/fu_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/unige_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ulco_logo.jpg" alt="MVA" width="150" height="100" />
+<img src="/images/universita-di-pisa.png" alt="MVA" width="130" height="80" /> <img src="/images/fu_logo.png" alt="MVA" width="130" height="80" /> <img src="/images/unige_logo.png" alt="MVA" width="130" height="80" /> <img src="/images/ulco_logo.jpg" alt="MVA" width="130" height="80" />
 
 * <span style="color:rgba(82,173,200,255)">**[M.S. Data Science Università di Pisa](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/)** 2025 (expected)</span> \
   Exchange semester at **[Freie Universität Berlin, Germany](https://www.mi.fu-berlin.de/en/data-science/index.html)**
