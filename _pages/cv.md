@@ -13,7 +13,7 @@ redirect_from:
 <img src="/images/universita-di-pisa.png" alt="MVA" width="150" height="100" /> <img src="/images/fu_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/unige_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ulco_logo.jpg" alt="MVA" width="150" height="100" />
 
 * <span style="color:rgba(82,173,200,255)">**[M.S. Data Science Università di Pisa](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/)** 2025 (expected)</span>
-  * Exchange semester at **[Freie Universität Berlin, Germany](https://www.mi.fu-berlin.de/en/data-science/index.html)**
+  Exchange semester at **[Freie Universität Berlin, Germany](https://www.mi.fu-berlin.de/en/data-science/index.html)**
   * <span style="color:rgba(82,173,200,255)">Semester 1 </span>: \
     Programming for data science (by S. TRANI, L. SEMINI) \
     Data mining (by D. PEDRESCHI, R. GUIDOTTI, A. FEDELE) \
@@ -29,7 +29,7 @@ redirect_from:
 * <span style="color:rgba(82,173,200,255)">**[B.S. Economics Università di Genova](https://corsi.unige.it/en/corsi/8699)** 2023 </span> \
   * Exchange semester at **[Université du Littoral Côte d'Opal, France](https://www.univ-littoral.fr/formation/offre-de-formation/licences/licence-economie-gestion/)** \
   * <span style="color:rgba(82,173,200,255)">Relevant courses </span>: \
-    Calculus 1, Financial Mathematics, Statistics (descriptive and inferential), Econometrics (ULCO), Quantitative data analysis (ULCO), Microeconomics, Macroeconomics, Industrial economics (game theory), Public economics, Financial economics. 
+    Calculus 1, Financial Mathematics, Statistics (descriptive and inferential), Econometrics (ULCO), Quantitative data analysis (ULCO), Microeconomics, Macroeconomics, Industrial economics, Public economics, Financial economics. 
 
 Work experience
 ======
@@ -38,22 +38,22 @@ Work experience
 Skills
 ======
 
-* **Programming**:
+* Programming:
 Python, R, C
 
-* **Databases**:
+* Databases:
 SQL, PostgreSQL, MongoDB
 
-* **Machine Learning**:
+* Machine Learning:
 Pytorch, Pandas, Numpy, Sklearn
 
-* **Visualization**:
+* Visualization:
 Plotly, Matplotlib, Seaborn
 
-* **Typing**:
+* Typing:
 Latex, Markdown
 
-* **Other**:
+* Other:
 Git, GitHub
 
 
