@@ -31,8 +31,7 @@ redirect_from:
   Exchange semester at **[Université du Littoral Côte d'Opal, France](https://www.univ-littoral.fr/formation/offre-de-formation/licences/licence-economie-gestion/)**
 
   * <span style="color:rgba(82,173,200,255)">Relevant courses</span>: \
-    Calculus 1, Financial Mathematics, Statistics (descriptive and inferential), Econometrics (ULCO), Quantitative data analysis (ULCO), Microeconomics, Macroeconomics, \
-    Industrial economics, Public economics, Financial economics.
+    Calculus 1, Financial Mathematics, Statistics (descriptive and inferential), Econometrics (ULCO), Quantitative data analysis (ULCO), Microeconomics, Macroeconomics, Industrial economics, Public economics, Financial economics.
 
 
 Work experience
