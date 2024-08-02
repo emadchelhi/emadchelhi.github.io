@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,38 +33,42 @@ redirect_from:
   * <span style="color:rgba(82,173,200,255)">Relevant courses</span>: \
     Calculus 1, Financial Mathematics, Statistics (descriptive and inferential), Econometrics (ULCO), Quantitative data analysis (ULCO), Microeconomics, Macroeconomics, Industrial economics, Public economics, Financial economics.
 
-
-Work experience
+<span style="color:rgba(82,173,200,255)"> CV </span>
 ======
 
-  
-Skills
+
+<span style="color:rgba(82,173,200,255)">Work experience
 ======
 
-* Programming:
+<span style="color:rgba(82,173,200,255)">Summer schools
+======
+
+<span style="color:rgba(82,173,200,255)">Online courses
+======
+
+<span style="color:rgba(82,173,200,255)"> Skills </span>
+======
+
+* <span style="color:rgba(82,173,200,255)"> Programming </span> \
 Python, R, C
 
-* Databases:
+* <span style="color:rgba(82,173,200,255)"> Databases </span> \
 SQL, PostgreSQL, MongoDB
 
-* Machine Learning:
+* <span style="color:rgba(82,173,200,255)"> Machine Learning </span> \
 Pytorch, Pandas, Numpy, Sklearn
 
-* Visualization:
+* <span style="color:rgba(82,173,200,255)"> Visualization </span> \
 Plotly, Matplotlib, Seaborn
 
-* Typing:
+* <span style="color:rgba(82,173,200,255)"> Typing </span> \
 Latex, Markdown
 
-* Other:
+* <span style="color:rgba(82,173,200,255)"> Other </span> \
 Git, GitHub
 
 
-Hobbies
-======
-
-
-Langauges
+<span style="color:rgba(82,173,200,255)">Hobbies</span>
 ======
 
 
